@@ -16,7 +16,11 @@ Next js 13 full course link : https://youtu.be/wm5gMKuwSYk
 STEP 03
 Contentful With next js 13 full course : https://youtu.be/ApztAQuXisU
 
+    OR You Can Use Strapi instead of Contentful
+    
+Strapi with Next js 13 full course :https://youtu.be/8xf78RNtfHY
+
 STEP 04:
-Serverless Postgres :Neon
+Serverless Postgres : Neon
 
 
