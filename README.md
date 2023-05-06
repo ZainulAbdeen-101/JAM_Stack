@@ -1,4 +1,6 @@
 # Dev_Zone
+   What exactly is JamStack? : https://youtu.be/-gRbZZofr1c
+  
 STEP 01:
 react Client Side Crash Course : https://youtu.be/SqcY0GlETPk
 
