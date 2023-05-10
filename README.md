@@ -13,10 +13,10 @@ react Client Side Crash Course : https://youtu.be/SqcY0GlETPk
  React Responsive Real Estate Website Tutorial Using ReactJs | React Projects for Beginners | Deploy : https://youtu.be/edBx-fjgh4k
  
 
-STEP 02
+STEP 02:
 Next js 13 full course link : https://youtu.be/wm5gMKuwSYk
 
-STEP 03
+STEP 03:
 Contentful With next js 13 full course : https://youtu.be/ApztAQuXisU
 
 or you can use Strapi (Another Headless CMS)
