@@ -4,6 +4,8 @@
 STEP 01:
 react Client Side Crash Course : https://youtu.be/SqcY0GlETPk
 
+  react-scroll-animation (DATA-AOS)  :https://michalsnik.github.io/aos/
+
  project 01:
  
  Build and Deploy a Fully Responsive Website with Modern UI/UX in React JS with Tailwind : https://youtu.be/_oO4Qi5aVZs
