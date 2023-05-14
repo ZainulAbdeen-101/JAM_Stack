@@ -1,4 +1,4 @@
-STEP 01: react Client Side Crash Course : https://youtu.be/SqcY0GlETPk
+STEP 01: react Client Side Crash Course :https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
 
 react-scroll-animation (DATA-AOS) :https://michalsnik.github.io/aos/
 
